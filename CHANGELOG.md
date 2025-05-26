@@ -1,3 +1,6 @@
+## 6.0.4
+- Removed deprecated registration methods
+
 ## 6.0.3
 - Bug fix release based on native v6.0
 - Fixes issue 825
